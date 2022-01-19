@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">1NT18IS104_Lab_6</string>
+    <string-array name="country">
+        <item>India</item>
+        <item>China</item>
+        <item>Pakistan</item>
+        <item>USA</item>
+        <item>UK</item>
+    </string-array>
+</resources>
